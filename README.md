@@ -8,6 +8,13 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/intel/inteloneapi/compiler/2021.1-b
 
 ```
 
+## Docker
+
+```
+$ cd docker
+$ docker build -t image/name .
+```
+
 
 ## Util
 
@@ -40,3 +47,5 @@ int main() {
     }
 }
 ```
+
+
